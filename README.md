@@ -16,26 +16,75 @@ whynotsw-camp 3rd-D오디 레포지토리입니다.
 - 2.YOLOv11을 통해 높은 탐지 정확도와 빠른 응답 속도 구현
 - 3.ESP32-CAM을 통해 실시간 포트홀사진을 수집하고 AWS클라우드에 자동화 처리
 - **기간**: 2024년 6월 - 2025년 1월
-
+---------------------------------------
 ## 2. 프로젝트 일정
 - **1차 프로젝트** (기획): 2024년 8월 19일 - 8월 21일
 - **2차 프로젝트** (프로토타입): 2024년 10월 22일 - 10월 28일
 - **3차 프로젝트** (최종): 2024년 11월 07일 - 1월 04일
-
-## 3. 팀 구성
-- **김승엽**: PM, 데이터분석, AI엔지니어
-- **한은선**: 데이터분석가, 클라우드인프라, 클라우드엔지니어
-- **김동혁**: 데이터분석가, 모델엔지니어링, 시스템인프라
-- **김준희**: 클라우드인프라, 클라우드엔지니어, 풀스택
-- **박장원**: 클라우드인프라, 클라우드엔지니어, 로봇엔지니어
-- **김나현**: 클라우드인프라, 클라우드엔지니어, 로봇엔지니어
 ---------------------------------------
-## 4. GIT 주소
-- **한은선**: Hansilverline
-- **김동혁**: dohy-98
-- **김준희**: MINLUV
-- **박장원**: jang7987
-- **김나현**: nastory22
+## 3. 팀 구성
+<table style="width:100%; text-align:center; table-layout:fixed;">
+  <colgroup>
+    <!-- 전체 5열이므로 20%씩 -->
+    <col style="width:20%;">
+    <col style="width:20%;">
+    <col style="width:20%;">
+    <col style="width:20%;">
+    <col style="width:20%;">
+    <col style="width:20%;">
+  </colgroup>
+  <thead>
+    <tr>
+      <th>김승엽</th>
+      <th>한은선</th>
+      <th>김동혁</th>
+      <th>김준희</th>
+      <th>박장원</th>
+      <th>김나현</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>img</td>
+      <td>img</td>
+      <td>img</td>
+      <td>img</td>
+      <td>img</td>
+      <td>img</td>
+    </tr>
+    <tr>
+      <td>PM, 데이터분석, AI엔지니어<br>데이터 파이프라인</td>
+      <td>데이터분석가, 클라우드인프라, 클라우드엔지니어<br>클라우드 관리</td>
+      <td>데이터분석가, 모델엔지니어링, 시스템인프라<br>프론트엔드</td>
+      <td>클라우드인프라, 클라우드엔지니어, 풀스택<br>백엔드</td>
+      <td>클라우드인프라, 클라우드엔지니어, 로봇엔지니어<br>데이터 파이프라인</td>
+      <td>클라우드인프라, 클라우드엔지니어, 로봇엔지니어<br>데이터 파이프라인</td>      
+    </tr>
+    <tr>
+      <td><a href="https://github.com/yeop6033" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Link-black?style=flat&logo=github&logoColor=white" />
+        </a>
+</td>
+      <td><a href="https://github.com/Hansilverline" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Link-black?style=flat&logo=github&logoColor=white" />
+        </a></td>
+      <td><a href="https://github.com/dohy-98" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Link-black?style=flat&logo=github&logoColor=white" />
+        </a></td>
+      <td><a href="https://github.com/MINLUV" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Link-black?style=flat&logo=github&logoColor=white" />
+        </a></td>
+      <td><a href="https://github.com/jang7987" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Link-black?style=flat&logo=github&logoColor=white" />
+        </a></td>
+       <td><a href="https://github.com/nastory22" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-Link-black?style=flat&logo=github&logoColor=white" />
+        </a></td>
+    </tr>
+  </tbody>
+</table>
+<br>
+
 ----------------------------------------
 # 요구사항 정의서
 
