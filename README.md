@@ -1,16 +1,13 @@
-# 3rd-D오디
-whynotsw-camp 3rd-D오디 레포지토리입니다.
-
 ---------------------------------------
 
-## D오디
+## 자율주행을 통한 실시간 포트홀 신고 서비스
 
 ---------------------------------------
 
 # 프로젝트 계획서
 
 ## 1. 프로젝트 개요
-- **프로젝트명**: Dynamic object detection[D오디]
+- **프로젝트명**: 자율주행을통한 포트홀 신고 서비스
 - **목표**:
 - 1.자율주행 차량을 위한 실시간 객체 탐지, 포트홀 감지 및 자동 신고 서비스 구축
 - 2.YOLOv11을 통해 높은 탐지 정확도와 빠른 응답 속도 구현
@@ -25,7 +22,7 @@ whynotsw-camp 3rd-D오디 레포지토리입니다.
 ## 3. 팀 구성
 <table style="width:100%; text-align:center; table-layout:fixed;">
   <colgroup>
-    <!-- 전체 5열이므로 20%씩 -->
+    <!-- 전체 6열이므로 20%씩 -->
     <col style="width:20%;">
     <col style="width:20%;">
     <col style="width:20%;">
@@ -44,14 +41,14 @@ whynotsw-camp 3rd-D오디 레포지토리입니다.
     </tr>
   </thead>
   <tbody>
-    <tr>
+<!--     <tr>
       <td>img</td>
       <td>img</td>
       <td>img</td>
       <td>img</td>
       <td>img</td>
       <td>img</td>
-    </tr>
+    </tr> -->
     <tr>
       <td>PM, 데이터분석, AI엔지니어<br>데이터 파이프라인</td>
       <td>데이터분석가, 클라우드인프라, 클라우드엔지니어<br>클라우드 관리</td>
