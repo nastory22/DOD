@@ -15,6 +15,10 @@
           <br/><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=plastic&logo=Amazon AWS&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white">
+        <img src="https://img.shields.io/badge/AduinoIDE-61DAFB?style=flat&logo=React&logoColor=white">
+        <img src="https://img.shields.io/badge/YOLO-000000?style=plastic&logo=Notion&logoColor=white">
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white">
+        
           </div>
     </div>
     
@@ -102,7 +106,27 @@
   </tbody>
 </table>
 <br>
-
+----------------------------------------
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Amazon S3-569A31?style=plastic&logo=Amazon S3&logoColor=white">
+          <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
+          <img src="https://img.shields.io/badge/Github-181717?style=plastic&logo=Github&logoColor=white">
+          <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white">
+          <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=C%2B%2B&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=plastic&logo=Amazon AWS&logoColor=white">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=Python&logoColor=white">
+          <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white">
+        <img src="https://img.shields.io/badge/AduinoIDE-61DAFB?style=flat&logo=React&logoColor=white">
+        <img src="https://img.shields.io/badge/YOLO-000000?style=plastic&logo=Notion&logoColor=white">
+        <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white">
+        
+          </div>
 ----------------------------------------
 # 요구사항 정의서
 
