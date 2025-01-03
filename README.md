@@ -105,7 +105,7 @@
           <img src="https://img.shields.io/badge/Notion-000000?style=plastic&logo=Notion&logoColor=white">
         <img src="https://img.shields.io/badge/AduinoIDE-61DAFB?style=flat&logo=React&logoColor=white">
         <img src="https://img.shields.io/badge/YOLO-000000?style=plastic&logo=Notion&logoColor=white">
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=plastic&logo=C&logoColor=white">
+        <https://img.shields.io/badge/YOLO>
         
         
 ----------------------------------------
