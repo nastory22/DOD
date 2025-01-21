@@ -166,27 +166,55 @@
 -----------------------------------------
 
 # 모델 정의서
+[모델 정의서 보기](./model_description.pdf)
+![YOLOv11](https://img.shields.io/badge/YOLOv11-0.99%20mAP-blue)
+![Python](https://img.shields.io/badge/Python-3.9-blue)
 
-## 1. 데이터 모델
-- **사용자 테이블**
-  - `user_id` (Primary Key)
-  - `username`
-  - `password`
-  - `email`
-  - `role` (admin, user)
 
-- **분석 결과 테이블**
-  - `result_id` (Primary Key)
-  - `user_id` (Foreign Key)
-  - `analysis_type`
-  - `timestamp`
-  - `result_data` (JSON)
+- **선택 모델**: YOLOv11
+- **선정 이유**:
+  - 높은 정확도(mAP 39.5)와 빠른 응답 시간(56.1ms)
+  - 최신 기술 반영으로 효율성과 성능 개선
 
-## 2. 객체 모델
-- **사용자 객체**
-  - 속성: `username`, `password`, `email`
-  - 메소드: `login()`, `logout()`, `register()`
+- **데이터셋 구성**:
+  - 학습 대상: 포트홀, 표지판(좌/우회전, 정지), 차선
+  - 데이터 출처: GitHub, AIHub, Kaggle
+  - 초기 데이터: 학습 160장, 검증 20장, 테스트 20장
+- **데이터 전처리**:
+  - 크기 조정: 640x640 픽셀
+  - 바운딩 박스 최소 크기: 10x10 픽셀
+- **데이터 라벨링**:
+  - 라벨링 비율: 학습 80%, 검증 10%, 테스트 10%
+  - mAP 70% 미만 시 데이터 증강 적용
  
+4. 모델 구조 및 기술 사양
+
+- **선택 모델**: YOLOv11
+- **선정 이유**:
+  - 높은 정확도(mAP 39.5)와 빠른 응답 시간(56.1ms)
+  - 최신 기술 반영으로 효율성과 성능 개선
+
+5. 모델 학습 및 검증
+
+- **학습 과정**:
+  - Epoch 수: 100
+  - 프레임워크: PyTorch, Tensorboard 사용
+- **평가 지표**:
+  - mAP: 0.99
+  - Precision, Recall
+
+6. 사용 기술 및 라이브러리
+
+- **기술**: YOLOv11, PyTorch, CUDA
+- **라이브러리**: NumPy, OpenCV, Tensorboard
+
+7. 향후 계획 및 개선안
+
+- 추가 데이터 확보 및 학습 강화
+- 모델 경량화
+- 배포 및 통합 테스트 진행
+
+
 ----------------------------------------
 
 # 성능 평가 결과서
