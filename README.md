@@ -167,7 +167,7 @@
 
 # 모델 정의서
 
-[모델 정의서 보기](./모델정의서.pdf)
+[모델 정의서 보기](./모델정의서.md)
 
 
 ![YOLOv11](https://img.shields.io/badge/YOLOv11-0.99%20mAP-blue)
