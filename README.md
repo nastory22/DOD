@@ -166,7 +166,9 @@
 -----------------------------------------
 
 # 모델 정의서
-[모델 정의서 보기](./model_description.pdf)
+
+[모델 정의서 보기](./모델정의서.pdf)
+
 
 ![YOLOv11](https://img.shields.io/badge/YOLOv11-0.99%20mAP-blue)
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
